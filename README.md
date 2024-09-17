@@ -6,10 +6,8 @@ key object-oriented concepts such as inheritance, polymorphism, encapsulation, a
 abstraction. Additionally, the project will integrate important GUI elements by leveraging
 classes from the javax.swing package, functions and features from the java.awt
 package, event listeners, action events, and visually appealing design principles.
+
 In the project, several tools are used to aid in its completion. These tools include BlueJ,
 Microsoft Word, and Draw.io. BlueJ is an integrated development environment (IDE)
 used for writing and compiling Java code. It helps to clearly show the relationships
-between different classes in the project. Microsoft Word is a popular word processing
-software developed by Microsoft, used to write the report for this project as it is easy to
-use and versatile. Draw.io is an open-source technology stack that is used to create
-diagrams and was used to create the class diagrams needed in the coursework report.
+between different classes in the project. 
